@@ -3927,6 +3927,10 @@ body {
   background: #fff;
 }
 
+.project-media.project-screenshot {
+  aspect-ratio: 2.06 / 1;
+}
+
 .project-meta {
   padding: 22px 28px 30px;
 }
